@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[David Aston]]></title>
         <description><![CDATA[David Aston]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/davidaston/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 30 May 2016 17:35:11 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 30 May 2016 18:03:12 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/davidaston/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[All Thoughts inspired by this work are the property of the artist I]]></title>
-            <description><![CDATA[<article><h1>All Thoughts inspired by this work are the property of the artist I</h1><p></p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/343647070a5276da722f8e505248e4cea67d3718.jpg"></article>]]></description>
-            <link>undefinedall-thoughts-inspired-by-this-work-are-the-property-of-the-a/index.html</link>
+            <description><![CDATA[<article><h1>All Thoughts inspired by this work are the property of the artist I</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/343647070a5276da722f8e505248e4cea67d3718.jpg"></article>]]></description>
+            <link>https://thegrid.ai/davidaston/all-thoughts-inspired-by-this-work-are-the-property-of-the-a/index.html</link>
             <guid isPermaLink="false">78b24c63-1c29-46ac-af93-1924309593d9</guid>
-            <pubDate>Mon, 30 May 2016 17:35:10 GMT</pubDate>
+            <pubDate>Mon, 30 May 2016 18:03:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
