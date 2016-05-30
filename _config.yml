@@ -17,11 +17,11 @@ color:
   brandStrength: 0.296285233926028
   lightness: 0
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#FFFFFF'
+    - '#A8A8A8'
+    - '#D1D1D1'
+    - '#534F50'
+    - '#16253A'
   rhythmicContrast: 0
 cta:
   bucket: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: davidaston
 favicon: null
+name: davidaston
 opengraph:
   image: null
   type: null
