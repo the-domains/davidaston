@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-30T18:03:05.394Z'
-dateModified: '2016-05-30T18:01:33.931Z'
+datePublished: '2016-05-30T18:16:52.220Z'
+dateModified: '2016-05-30T18:05:46.595Z'
 title: All Thoughts inspired by this work are the property of the artist I
 author:
   - name: 'David '
@@ -20,4 +20,3 @@ _type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ae10aac6-73ad-4254-8c9f-547be0405375.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/eec6e84f-49a9-43a0-be01-bf118faedd5d.jpg)
