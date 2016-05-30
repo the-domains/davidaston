@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-30T18:24:12.029Z'
-dateModified: '2016-05-30T18:19:53.801Z'
+datePublished: '2016-05-30T19:22:47.953Z'
+dateModified: '2016-05-30T18:31:01.412Z'
 title: 'All Thoughts inspired by this work are the property of the artist I, 2016'
 author:
   - name: David Aston
